@@ -21,7 +21,12 @@ class Mobil{
     }
 };
 
+int main(){
 
+
+
+    
+};
 
 
 
