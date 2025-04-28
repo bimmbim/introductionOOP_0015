@@ -24,7 +24,8 @@ class Mobil{
 int main(){
     Mobil sf90;
     sf90.input_data();
-
+    cout << "Nama mobil = " << sf90.nama_mobil << endl;
+    cout << "Tipe mobil = " << sf90.tipe_mobil << endl;
     
 };
 
