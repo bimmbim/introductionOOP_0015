@@ -22,7 +22,7 @@ class Mobil{
 };
 
 int main(){
-
+    Mobil sf90;
 
 
     
