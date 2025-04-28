@@ -23,7 +23,7 @@ class Mobil{
 
 int main(){
     Mobil sf90;
-
+    sf90.input_data();
 
     
 };
