@@ -26,7 +26,7 @@ int main(){
     sf90.input_data();
     cout << "Nama mobil = " << sf90.nama_mobil << endl;
     cout << "Tipe mobil = " << sf90.tipe_mobil << endl;
-    
+    sf90.output_data();
 };
 
 
