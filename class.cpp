@@ -16,7 +16,9 @@ class Mobil{
             cout << "Masukkan harga mobil: ";
                 cin >> harga_mobil;
         }
-        
+        void output_data(){
+            cout << "Harga mobil = " << harga_mobil << endl;
+    }
 };
 
 
